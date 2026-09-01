@@ -46,3 +46,8 @@ No build tools, no install, no server required.
 
 # Clone the repositorygit clone https://github.com/ShannonCodesAI/Legion.gitcd Legion# Open in your default browseropen index.html# or on Linux:xdg-open index.html# or on Windows:start index.html
 That's it. The dashboard loads and begins simulating immediately.
+# Legion
+
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://ShannonCodesAI.github.io/Legion/)
+
+Launch the live site: https://ShannonCodesAI.github.io/Legion/
